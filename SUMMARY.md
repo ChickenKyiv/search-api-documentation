@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Untitled](untitled.md)
+* [DB Schema](db-schema.md)
 
