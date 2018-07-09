@@ -1,1 +1,2 @@
-# search-api-documentation
+# Initial page
+
