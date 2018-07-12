@@ -16,8 +16,6 @@ or
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
-
-
 ## Have you had a chance to answer the previous question?
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
@@ -26,10 +24,9 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 | --- | --- | --- | --- | --- | --- |
 | [http://localhost:3000/api/recipe?filter\[where\]\[title\]\[like\]=Chicken](http://localhost:3000/api/recipe?filter[where][title][like]=Chicken) | **works** |
 | [http://localhost:3000/api/recipe?filter\[where\]\[title\]\[like\]=Apple](http://localhost:3000/api/recipe?filter[where][title][like]=Apple) | **works** |
-| [http://localhost:3000/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3 ](http://localhost:3000/api/recipe?filter[where][id]=5abc504c502648524bc3cad3
-) | **works** |
-|  |  |
-|  |  |
+| \[[http://localhost:3000/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3](http://localhost:3000/api/recipe?filter[where][id]=5abc504c502648524bc3cad3) \]\([http://localhost:3000/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3](http://localhost:3000/api/recipe?filter[where][id]=5abc504c502648524bc3cad3) |  |
+
+\) \| **works** \| \| \| \| \| \| \|
 
 ## Hosted links
 
