@@ -1,9 +1,3 @@
----
-description: >-
-  This page contain API calls that will return json arrays, with data, filtered 
-  by ingredients
----
-
 # Ingredients By Name
 
 ## Ingredients By Name

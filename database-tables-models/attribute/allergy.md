@@ -10,8 +10,6 @@ description: >-
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-
-
 | URL | Status |
 | --- | --- | --- | --- | --- | --- |
 | [http://localhost:3000/api/attribute?filter\[where\]\[type\]=allergy](http://localhost:3000/api/attribute?filter[where][type]=allergy) | **works** |

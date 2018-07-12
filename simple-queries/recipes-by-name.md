@@ -1,7 +1,3 @@
----
-description: If you'll use one of this links in your search - you'll receive a result
----
-
 # Recipes By Name
 
 ## Recipes By Name
