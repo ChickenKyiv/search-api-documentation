@@ -18,6 +18,8 @@
 
 **Allergies**: Gluten free, Soy Free
 
+
+
 #### Case 2
 
 **Recipe Name**: basic fruit Salad
@@ -33,6 +35,8 @@
 **Allergies**: Egg free, Gluten free
 
 #### Case 3
+
+
 
 **Recipe Name**: Backed Chicken Chimichangas
 
@@ -50,6 +54,8 @@
 
 #### Case 4
 
+
+
 **Recipe name**: Crook Pot Roast
 
 **Ingredients**; grapes, mozarella cheese, water, sugar
@@ -63,6 +69,8 @@
 **Cuisines**: German, French
 
 **Allergies**: Soy Free
+
+
 
 #### Case 5
 
