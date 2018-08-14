@@ -1,5 +1,6 @@
-# Release \#0
-
+---
+title: Release \#0
+---
 
 
 ## Release \#0
@@ -49,4 +50,3 @@ Solution: Search form with basic functionality. With clean code, separated backe
 **Closing and Call to Action**
 
 > Give up meal planning with pen and paper, multiple, disjointed apps, or memorized lists.
-

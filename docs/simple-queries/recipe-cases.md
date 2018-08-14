@@ -1,5 +1,6 @@
-# Recipe Cases
-
+---
+title: Recipe Cases
+---
 ## Recipe Cases
 
 #### Case 1
@@ -87,4 +88,3 @@
 **Holidays**: halloween, Winter
 
 **Cuisines**: Kid-friendly, french
-

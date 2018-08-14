@@ -1,5 +1,6 @@
-# Attributes that will return one or more recipes
-
+---
+title: Attributes that will return one or more recipes
+---
 
 
 ## Attributes that will return one or more recipes
@@ -75,4 +76,3 @@ It should return
 'Basic Fruit salad'
 'Perfect Apple Pie'
 ```
-

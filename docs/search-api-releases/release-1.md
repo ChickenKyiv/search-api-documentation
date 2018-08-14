@@ -1,4 +1,6 @@
-# Release \#1
+---
+title: Release \#1
+---
 
 
 
@@ -60,4 +62,3 @@ Closing: Setup this developer version and save the time of your developers.
 **Closing and Call to Action**
 
 > Give up meal planning with pen and paper, multiple, disjointed apps, or memorized lists.
-

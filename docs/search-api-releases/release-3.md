@@ -1,5 +1,6 @@
-# Release \#3
-
+---
+title: Release \#3
+---
 
 
 ## Release \#3
@@ -43,4 +44,3 @@ By adding an additional level of abstraction, we'll be free.
 **Closing and Call to Action**
 
 > Give up meal planning with pen and paper, multiple, disjointed apps, or memorized lists.
-

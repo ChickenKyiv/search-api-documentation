@@ -1,4 +1,6 @@
-# Recipes By Name
+---
+title: Recipes By Name
+---
 
 ## Recipes By Name
 
@@ -17,4 +19,3 @@
 #### Crock Pot Roast
 
 **URL:** [**http://localhost:3000/api/recipe?filter\[where\]\[title\]\[like\]=Crock%20Pot%20Roast**](http://localhost:3000/api/recipe?filter[where][title][like]=Crock%20Pot%20Roast)
-
