@@ -1,4 +1,6 @@
-# Search API tests
+---
+title: Search API tests
+---
 
 ## Recipes, that we're using for our tests
 
@@ -27,4 +29,3 @@
 ![](https://raw.githubusercontent.com/ChickenKyiv/creative/master/searchAPI/36940589-6b720070-1f4e-11e8-97ee-b388d19354db.png)
 
 ![](https://raw.githubusercontent.com/ChickenKyiv/creative/master/searchAPI/36940590-760d6100-1f4e-11e8-9d1a-a55688b4375f.png)
-

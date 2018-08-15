@@ -1,4 +1,6 @@
-# Release \#2
+---
+title: Release \#2
+---
 
 
 
@@ -49,4 +51,3 @@ Customer Quote: "When components were separated - we didn't spend a lot of time 
 **Closing and Call to Action**
 
 > Give up meal planning with pen and paper, multiple, disjointed apps, or memorized lists.
-

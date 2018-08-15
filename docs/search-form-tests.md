@@ -1,5 +1,6 @@
-# Search Form Tests
-
+---
+title: Search Form Tests
+---
 ## Case1: Submit An Empty form
 
 Result: Message - " "
@@ -35,20 +36,3 @@ Result: Message - " "
 ## Case7: Diets included
 
 Result: Message - " "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

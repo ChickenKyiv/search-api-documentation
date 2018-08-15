@@ -1,4 +1,6 @@
-# Ingredients By Name
+---
+title: Ingredients By Name
+---
 
 ## Ingredients By Name
 
@@ -58,4 +60,3 @@ URL = "black pepper"
 Return
 
 #### Case 3
-

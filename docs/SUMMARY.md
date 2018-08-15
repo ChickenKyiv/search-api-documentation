@@ -1,5 +1,7 @@
-# Table of contents
-
+---
+id: summary
+title: Table of contents
+---
 * [Intro](README.md)
 * [DB Schema](db-schema.md)
 * [Search API Releases](search-api-releases/README.md)
@@ -26,6 +28,5 @@
   * [Recipes By Name](simple-queries/recipes-by-name.md)
   * [Recipe Cases](simple-queries/recipe-cases.md)
   * [Attributes that will return one or more recipes](simple-queries/attributes-that-will-return-one-or-more-recipes.md)
-  * [Recipes + Attributes](simple-queries/recipes-+-attributes.md)
+  * [Recipes + Attributes](simple-queries/recipes-plus-attributes.md)
 * [Main Intro](main-intro.md)
-

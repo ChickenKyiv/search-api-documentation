@@ -1,4 +1,6 @@
-# Release \#4
+---
+title: Release \#4
+---
 
 
 
@@ -35,4 +37,3 @@
 **Closing and Call to Action**
 
 > Give up meal planning with pen and paper, multiple, disjointed apps, or memorized lists.
-
