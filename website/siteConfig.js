@@ -40,16 +40,16 @@ const siteConfig = {
   headerLinks: [
     {doc: 'summary', label: 'Summary'},
     {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/documentation.png',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/Chicken Kyiv Logos_Transparent background.png',
+  footerIcon: 'img/Chicken Kyiv Logos_Transparent background.png',
+  favicon: 'img/Chicken Kyiv Logos_Transparent background.png',
 
   /* colors for website */
   colors: {

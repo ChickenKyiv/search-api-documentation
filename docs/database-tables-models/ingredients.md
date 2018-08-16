@@ -2,8 +2,7 @@
 title: Ingredients
 ---
 ---
-description: >-
-  Here we're displaying a list of requests, that will return data, related to
+ >   Here we're displaying a list of requests, that will return data, related to
   ingredients attributes
 ---
 

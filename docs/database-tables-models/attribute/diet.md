@@ -2,8 +2,7 @@
 title: Diet
 ---
 ---
-description: >-
-  Here we're displaying a list of requests, that will return data, related to
+>  Here we're displaying a list of requests, that will return data, related to
   diets attributes
 ---
 
@@ -22,7 +21,7 @@ description: >-
 ## Hosted links
 
 | URL | Status |
-| --- | --- | 
+| --- | --- |
 | [https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[type\]=diet](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][type]=diet) | **works** |
 | [https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[and\]\[\]\[type\]=diet](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][and][][type]=diet) | **works** |
 | [https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[and\]\[\]\[id\]=5abc4e9da2738950031da8c9](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][and][][id]=5abc4e9da2738950031da8c9) | **works** |
