@@ -1,5 +1,7 @@
 ---
+id: recipe-cases
 title: Recipe Cases
+sidebar_label: Recipe Cases
 ---
 ## Recipe Cases
 

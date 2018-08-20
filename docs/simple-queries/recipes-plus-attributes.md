@@ -1,5 +1,7 @@
 ---
+id: recipes-plus-attributes
 title: Recipes + Attributes
+sidebar_label: Recipes + Attributes
 ---
 ## Recipes + Attributes
 

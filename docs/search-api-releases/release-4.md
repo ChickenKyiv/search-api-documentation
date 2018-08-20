@@ -1,10 +1,12 @@
 ---
-title: Release \#4
+id: release-4
+title: Release #4
+sidebar_label: Release #4
 ---
 
 
 
-## Release \#4
+## Release #4
 
 ### **Release 4 - Free Menu**
 

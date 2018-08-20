@@ -1,5 +1,7 @@
 ---
-title: Release \#2
+id: release-2
+title: Release #2
+sidebar_label: Release #2
 ---
 
 
@@ -8,17 +10,23 @@ title: Release \#2
 
 Release 2 Searched
 
-Heading: Front + backend making working without bugs.
+**Heading:**
+> Front + backend making working without bugs.
 
-SubHeading: Frontend with backend passing our basic tests. Components will have tests. A lot of repeatable code moved into separated npm packages.
+**SubHeading:**
+> Frontend with backend passing our basic tests. Components will have tests. A lot of repeatable code moved into separated npm packages.
 
-Summary: this release is more about code quality.
+**Summary:**
+> this release is more about code quality.
 
-Problem: It'll take some time if you'll decide to add this functionality into your project.
+**Problem:**
+> It'll take some time if you'll decide to add this functionality into your project.
 
-Solution: make the code more clear, less long, less complicated.
+**Solution:**
+> make the code more clear, less long, less complicated.
 
-Customer Quote: "When components were separated - we didn't spend a lot of time to connect them to our project."
+**Customer Quote:**
+> "When components were separated - we didn't spend a lot of time to connect them to our project."
 
 **Release 2 - Free Menu**
 

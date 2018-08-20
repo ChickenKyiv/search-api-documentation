@@ -1,5 +1,7 @@
 ---
+id: allergy
 title: Allergy
+sidebar_label: | Allergy
 ---
 
 ---

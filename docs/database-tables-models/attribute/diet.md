@@ -1,5 +1,7 @@
 ---
+id: diet
 title: Diet
+sidebar_label: | Diet
 ---
 ---
 >  Here we're displaying a list of requests, that will return data, related to

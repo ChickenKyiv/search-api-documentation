@@ -1,5 +1,7 @@
 ---
+id: course
 title: Course
+sidebar_label: | Course
 ---
 ---
  >  Here we're displaying a list of requests, that will return data, related to
@@ -20,7 +22,7 @@ title: Course
 ## Hosted links
 
 | URL | Status |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- |
 | [https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[type\]=course](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][type]=course) | **works** |
 | ​[https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[and\]\[\]\[type\]=course](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][and][][type]=course) | **works** |
 | ​[https://loopback-recipe-search.herokuapp.com/api/attribute?filter\[where\]\[id\]=5abc4e9da2738950031da8a2](https://loopback-recipe-search.herokuapp.com/api/attribute?filter[where][id]=5abc4e9da2738950031da8a2) | **works** |

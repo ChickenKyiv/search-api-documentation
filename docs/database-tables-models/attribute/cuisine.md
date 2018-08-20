@@ -1,5 +1,7 @@
 ---
+id: cuisine
 title: Cuisine
+sidebar_label: | Cuisine
 ---
 ---
  >  Here we're displaying a list of requests, that will return data, related to

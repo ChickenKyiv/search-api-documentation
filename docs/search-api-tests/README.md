@@ -1,5 +1,7 @@
 ---
+id: search-api-tests
 title: Search API tests
+sidebar_label: Search API tests
 ---
 
 ## Recipes, that we're using for our tests

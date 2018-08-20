@@ -1,22 +1,29 @@
 ---
-title: Release \#1
+id: release-1
+title: Release #1
+sidebar_label: Release #1
 ---
 
 
 
 ## Release \#1
 
-Release \#1
+Release #1
 
-Heading: Form, connected with our search API.
+**Heading:**
+> Form, connected with our search API.
 
-SubHeading: GET + POST queries. Displaying search results.
+**SubHeading:**
+> GET + POST queries. Displaying search results.
 
-Summary: In order to make our form working with our server -&gt; we should connect frontend + backend.
+**Summary:**
+> In order to make our form working with our server -&gt; we should connect frontend + backend.
 
-Problem: our search server is partly completed, but not tested and don't have a frontend part.
+**Problem:**
+>our search server is partly completed, but not tested and don't have a frontend part.
 
-Solution: create a list of basic API endpoints and send data from form fields into our server.
+**Solution:**
+>create a list of basic API endpoints and send data from form fields into our server.
 
 Display json results in our front page.
 
@@ -27,9 +34,9 @@ How to get started:
 
   call URL/explorer in order to see all endpoints that we have inside.
 
-Customer Quote: With this form and data from the server we were able to reduce the time of coding.
+**Customer Quote:** With this form and data from the server we were able to reduce the time of coding.
 
-Closing: Setup this developer version and save the time of your developers.
+**Closing:** Setup this developer version and save the time of your developers.
 
 **Release 1 - Free Menu**
 
