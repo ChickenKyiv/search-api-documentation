@@ -1,5 +1,7 @@
 ---
+id: how-to-test-search-api
 title: How To test Search API?
+sidebar_label: How To test Search API?
 ---
 
 

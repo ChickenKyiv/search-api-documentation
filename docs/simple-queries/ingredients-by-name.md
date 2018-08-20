@@ -1,5 +1,7 @@
 ---
+id: ingredients-by-name
 title: Ingredients By Name
+sidebar_label: Ingredients By Name
 ---
 
 ## Ingredients By Name

@@ -1,5 +1,7 @@
 ---
+id: search-form-tests
 title: Search Form Tests
+sidebar_label: Search Form Tests
 ---
 ## Case1: Submit An Empty form
 

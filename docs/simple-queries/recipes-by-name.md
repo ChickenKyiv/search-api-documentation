@@ -1,5 +1,7 @@
 ---
+id: recipes-by-name
 title: Recipes By Name
+sidebar_label: Recipes By Name
 ---
 
 ## Recipes By Name

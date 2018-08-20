@@ -1,5 +1,7 @@
 ---
+id: recipe-names
 title: Recipe Names
+sidebar_label: Recipe Names
 ---
 ---
 >  Here we're displaying a list of requests, that will return data, related to
@@ -27,7 +29,6 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 | [http://localhost:3000/api/recipe?filter\[where\]\[title\]\[like\]=Apple](http://localhost:3000/api/recipe?filter[where][title][like]=Apple) | **works** |
 | \[[http://localhost:3000/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3](http://localhost:3000/api/recipe?filter[where][id]=5abc504c502648524bc3cad3) \]\([http://localhost:3000/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3](http://localhost:3000/api/recipe?filter[where][id]=5abc504c502648524bc3cad3) |  |
 
-\) \| **works** \| \| \| \| \| \| \|
 
 ## Hosted links
 
@@ -36,5 +37,3 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 | [https://loopback-recipe-search.herokuapp.com/api/recipe?filter\[where\]\[title\]\[like\]=Chicken](https://loopback-recipe-search.herokuapp.com/api/recipe?filter[where][title][like]=Chicken) | **works** |
 | [https://loopback-recipe-search.herokuapp.com/api/recipe?filter\[where\]\[title\]\[like\]=Apple](https://loopback-recipe-search.herokuapp.com/api/recipe?filter[where][title][like]=Apple) | **works** |
 | [https://loopback-recipe-search.herokuapp.com/api/recipe?filter\[where\]\[id\]=5abc504c502648524bc3cad3](https://loopback-recipe-search.herokuapp.com/api/recipe?filter[where][id]=5abc504c502648524bc3cad3) | **works** |
-|  |  |
-|  |  |

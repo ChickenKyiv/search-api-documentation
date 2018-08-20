@@ -1,5 +1,7 @@
 ---
+id: attributes-that-will-return-one-or-more-recipes
 title: Attributes that will return one or more recipes
+sidebar_label: Attributes that will return one or more recipes
 ---
 
 

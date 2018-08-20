@@ -74,20 +74,16 @@ const PromoSection = props => (
 class HomeSplash extends React.Component {
   render() {
     let language = this.props.language || '';
-    // return (
-    //   <SplashContainer>
-    //     <Logo img_src={imgUrl('docusaurus.svg')} />
-    //     <div className="inner">
-    //       <ProjectTitle />
-    //       <PromoSection>
-    //         <Button href="#try">Try It Out</Button>
-    //         <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-    //         <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
-    //       </PromoSection>
-    //     </div>
-    //   </SplashContainer>
-    // );
-    return null;
+    return (
+      <SplashContainer>
+        <Logo img_src={imgUrl('Chicken Kyiv Logos_Transparent background.png')} />
+        <div className="inner">
+          <ProjectTitle />
+          <PromoSection>
+          </PromoSection>
+        </div>
+      </SplashContainer>
+    );
   }
 }
 
@@ -96,7 +92,7 @@ const Block = props => (
     padding={['bottom', 'top']}
     id={props.id}
     background={props.background}>
-    <GridBlock align="center" contents={props.children} layout={props.layout} />
+    <GridBlock align="left" contents={props.children} layout={props.layout} />
   </Container>
 );
 
@@ -118,16 +114,109 @@ const Features = props => (
     ]}
   </Block>
 );
+const MainPage = props => (
+  <div
+    className="productShowcaseSection paddingBottom"
+    style={{textAlign: 'center'}}>
 
+        <div className = "tableofcontents">
+          <strong>Search API </strong>- abstract version, without connecting to database.
+        <br/><strong>Check models for current project you can find here:</strong>
+          You should recreate a samlpe logic from from scratch. But spend time and make it adjustable. Keep in mind that main function for this server is to return data only. We didn't add new database items, not deleting them.
+          It should be not very difficult, huh? Create a separated repo in our code repository, where we'll keep schemas for this project.
+
+          This will help us. You should make this schema with help of our other team members. So you'll need to create a plan and separate roles, tasks, so one will create types, other queries, etc. Later you'll merge them and test how it work together.
+
+          Keep in mind that we like to change schemes a lot, so you should be aware about this.
+
+          You should also create a simple explanation document - readme file that will explain how everything works. This will help you later and will speed up the process of other developers, involved to development process.
+
+      </div>
+
+
+  </div>
+);
 const FeatureCallout = props => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
+    <h2>Table of contents</h2>
+        <div className = "tableofcontents">
+
+      <ul>
+        <li><a href="/search-api-documentation/docs/intro">Intro</a></li>
+        <li><a href="/search-api-documentation/docs/db-schema">DB Schema</a></li>
+        <li><a href="/search-api-documentation/docs/search-api-releases/search-api-releases">Search API Releases</a></li>
+          <ul>
+          <li><a href="/search-api-documentation/docs/search-api-releases/release-0">Release #0</a></li>
+          <li><a href="/search-api-documentation/docs/search-api-releases/release-1">Release #1</a></li>
+          <li><a href="/search-api-documentation/docs/search-api-releases/release-2">Release #2</a></li>
+          <li><a href="/search-api-documentation/docs/search-api-releases/release-3">Release #3</a></li>
+          <li><a href="/search-api-documentation/docs/search-api-releases/release-4">Release #4</a></li>
+          </ul>
+        <li><a href="/search-api-documentation/docs/search-api-tests/search-api-tests">Search API tests</a></li>
+        <ul>
+          <li><a href="/search-api-documentation/docs/search-api-tests/how-to-test-search-api">How To test Search API?</a></li>
+        </ul>
+        <li><a href="/search-api-documentation/docs/search-form-tests">Search Form Tests</a></li>
+        <li><a href="/search-api-documentation/docs/database-tables-models/database-tables-models">Database Tables/ Models</a></li>
+          <ul>
+          <li><a href="/search-api-documentation/docs/database-tables-models/ingredients">Ingredients</a></li>
+          <li><a href="/search-api-documentation/docs/database-tables-models/recipe-names">Recipe Names</a></li>
+          <li><a href="/search-api-documentation/docs/database-tables-models/attribute/README">Attribute</a></li>
+              <ul>
+            <li><a href="/search-api-documentation/docs/database-tables-models/attribute/allergy">Allergy</a></li>
+            <li><a href="/search-api-documentation/docs/database-tables-models/attribute/diet">Diet</a></li>
+            <li><a href="/search-api-documentation/docs/database-tables-models/attribute/holiday">Holiday</a></li>
+            <li><a href="/search-api-documentation/docs/database-tables-models/attribute/cuisine">Cuisine</a></li>
+            <li><a href="/search-api-documentation/docs/database-tables-models/attribute/course">Course</a></li>
+            </ul>
+            </ul>
+        <li><a href="/search-api-documentation/docs/simple-queries/simple-queries">Simple Queries</a></li>
+          <ul>
+          <li><a href="/search-api-documentation/docs/simple-queries/ingredients-by-name">Ingredients By Name</a></li>
+          <li><a href="/search-api-documentation/docs/simple-queries/attributes-by-name">Attributes By Name</a></li>
+          <li><a href="/search-api-documentation/docs/simple-queries/recipes-by-name">Recipes By Name</a></li>
+          <li><a href="/search-api-documentation/docs/simple-queries/recipe-cases">Recipe Cases</a></li>
+          <li><a href="/search-api-documentation/docs/simple-queries/attributes-that-will-return-one-or-more-recipes">Attributes that will return one or more recipes</a></li>
+          <li><a href="/search-api-documentation/docs/simple-queries/recipes-plus-attributes">Recipes + Attributes</a></li>
+          </ul>
+      </ul>
+      </div>
+
+
   </div>
 );
+const FeatureCallout2 = props => (
 
+  <div className = "ogg" style={{textAlign: 'left'}}>
+    <div className="wrapper">
+      <div className="gridBlock">
+        <div className="blockElement imageAlignSide imageAlignLeft twoByGridBlock">
+          <div className="blockImage">
+            <img src="/recipe-app-react-native/img/54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png">
+
+            </img>
+          </div>
+          <div className="blockContent"><h2><div><span><p>Description</p>
+    </span></div></h2><div><span><p>
+        Build with: Angular, Ionic Framework v.1
+      <ul>
+        <h3>Basic functionality:</h3>
+        <li>Screen with recipes list</li>
+        <li>Recipe details</li>
+        <li>Basic grocery list</li>
+        <li>Login screen.</li>
+    </ul>
+
+
+
+      </p>
+    </span></div></div></div>
+      </div>
+    </div>
+  </div>
+);
 const LearnHow = props => (
   <Block background="light">
     {[
@@ -145,8 +234,8 @@ const TryOut = props => (
   <Block id="try">
     {[
       {
-        content: 'Talk about trying this out',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Release #1 completed(Free Menu) ^ Build with: Angular, Ionic Framework v.1 Note: soon I’ll redo an app from scratch.',
+        image: imgUrl('54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png'),
         imageAlign: 'left',
         title: 'Try it Out',
       },
@@ -205,12 +294,16 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
-          {/* <Features />
+          {/* <Features /> */}
+           {/* <TryOut /> */}
+
+          <MainPage />
           <FeatureCallout />
-          <LearnHow />
-          <TryOut />
-          <Description /> */}
-          {/* <Showcase language={language} /> */}
+
+           {/* <LearnHow /> */}
+
+          {/* <Description />  */}
+           {/* <Showcase language={language} /> */}
         </div>
       </div>
     );

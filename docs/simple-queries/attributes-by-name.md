@@ -1,5 +1,7 @@
 ---
+id: attributes-by-name
 title: Attributes By Name
+sidebar_label: Attributes By Name
 ---
 
 ## Attributes by name

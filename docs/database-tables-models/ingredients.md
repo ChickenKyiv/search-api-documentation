@@ -1,5 +1,7 @@
 ---
+id: ingredients
 title: Ingredients
+sidebar_label: Ingredients
 ---
 ---
  >   Here we're displaying a list of requests, that will return data, related to
